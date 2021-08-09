@@ -1,7 +1,4 @@
 """
-Reference:
-H. T. Le, S. L. Phung, P. B. Chapple, A. Bouzerdoum, C. H. Ritz, and L. C. Tran, “Deep Gabor neural network for
-automatic detection of mine-like objects in sonar imagery,” IEEE Access, vol. 8, pp. 94 126–94 139, 2020.
 @author: Thanh Le
 """
 from keras import backend as K
