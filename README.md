@@ -38,4 +38,6 @@ If you find this work or code is helpful in your research, please cite:
   pages={94126-94139},
   doi={10.1109/ACCESS.2020.2995390}}
   ```
-
+## Reference
+[1] H. T. Le, S. L. Phung, P. B. Chapple, A. Bouzerdoum, C. H. Ritz, and L. C. Tran, “Deep Gabor neural network for
+automatic detection of mine-like objects in sonar imagery,” IEEE Access, vol. 8, pp. 94 126–94 139, 2020.
