@@ -31,12 +31,10 @@ class Gabor2D(Layer):
 
         self.num_kernels = num_kernels
         self.kernel_size = kernel_size
-        self.strides = conv_utils.normalize_tuple(strides, 2,
-                                                  'strides')
+        self.strides = conv_utils.normalize_tuple(strides, 2, 'strides')
         self.padding = conv_utils.normalize_padding(padding)
         self.data_format = K.normalize_data_format(data_format)
-        self.dilation_rate = conv_utils.normalize_tuple(dilation_rate, 2,
-                                                        'dilation_rate')
+        self.dilation_rate = conv_utils.normalize_tuple(dilation_rate, 2, 'dilation_rate')
         self.activation = activations.get(activation)
         self.use_bias = use_bias
         self.bias_initializer = initializers.get(bias_initializer)
