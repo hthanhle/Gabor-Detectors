@@ -1,6 +1,6 @@
 # Deep Gabor Neural Network for Automatic Detection of Mine-like Objects in Sonar Imagery
 ## Quick start
-### Install
+### Installation
 1. Install Tensorflow=1.13.1 and Keras=2.2.4 following [the official instructions](https://www.tensorflow.org/install/pip)
 
 2. git clone https://github.com/hthanhle/Gabor-Detectors/
