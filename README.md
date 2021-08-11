@@ -3,11 +3,11 @@
 We address the automatic detection of mine-like objects using sonar images. The proposed Gabor-based detector is designed as a feature pyramid network
 with a small number of trainable weights.
 
-![alt_text](/output/REMUS100.png) ![alt_text](/output/test2.png) ![alt_text](/output/test3.png)
+![alt_text](/output/REMUS100.png)
 
 **Fig. 1.** The REMUS100 AUV used for sonar data acquisition. Figure courtesy of Maritime Survey Australia.
 
-![alt_text](/output/sidescan_sonar.png) ![alt_text](/output/test2.png) ![alt_text](/output/test3.png)
+![alt_text](/output/sidescan_sonar.png)
 
 **Fig. 2.** Principle of a side-scan sonar mounted on an autonomous underwater vehicle.
 
