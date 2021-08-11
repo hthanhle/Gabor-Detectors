@@ -1,6 +1,6 @@
 # Deep Gabor Neural Network for Automatic Detection of Mine-like Objects in Sonar Imagery
 ## Descriptions
-This project addresses the automatic detection of mine-like objects using sonar images. The proposed Gabor-based detector is designed as a feature pyramid network
+We address the automatic detection of mine-like objects using sonar images. The proposed Gabor-based detector is designed as a feature pyramid network
 with a small number of trainable weights.
 
 ![alt_text](/output/test1.png) ![alt_text](/output/test2.png) ![alt_text](/output/test3.png)
