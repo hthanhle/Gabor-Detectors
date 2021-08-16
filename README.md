@@ -13,7 +13,7 @@ with a small number of trainable weights.
 
 ![alt_text](/output/test1.png) ![alt_text](/output/test2.png) ![alt_text](/output/test3.png)
 
-**Fig. 2.** Representative visual results produced by the proposed Gabor-based method.
+**Fig. 3.** Representative visual results produced by the proposed Gabor-based method.
 
 ## Quick start
 ### Installation
